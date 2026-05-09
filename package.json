@@ -1,0 +1,18 @@
+{
+  "name": "@torinel/girokonto-methodology",
+  "version": "0.1.0",
+  "description": "Public methodology notes and lightweight German IBAN helpers for Torinel Girokonto workflows.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/iban-basic.test.js"
+  },
+  "keywords": [
+    "torinel",
+    "girokonto",
+    "iban",
+    "blz",
+    "germany",
+    "methodology"
+  ]
+}
